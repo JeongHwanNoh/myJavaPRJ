@@ -5,7 +5,7 @@ public class bigdata09 {
         Scanner sc = new Scanner(System.in);
 
         int a, b;
-        System.out.printf("20 이하로 원하는 값을 입력하세요 : ");
+        System.out.printf("20 이하로 원하는 값을 입력하세요. : ");
         a = sc.nextInt();
 
         if (a > 20) {
