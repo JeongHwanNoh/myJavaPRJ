@@ -9,7 +9,7 @@ public class bigdata09 {
         a = sc.nextInt();
 
         if (a > 20) {
-            System.out.printf("수가 20를 초과하셨습니다.\n");
+            System.out.printf("수가 20을 초과하셨습니다.\n");
         } else if (a < 21) {
             System.out.printf("%d의 값을 입력하셨습니다.\n", a);
             for (b = 0; a > 0; ) {
