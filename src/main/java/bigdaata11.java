@@ -4,7 +4,7 @@ public class bigdaata11 {
 
         for (i = 1, j = 2; j < 10 || i < 9; ) {
             if (j < 10) {
-                System.out.printf("%2d X %2d = %2d ", j, i, i * j);
+                System.out.printf("%2d X %2d = %2d", j, i, i * j);
                 j++;
             } else {
                 System.out.printf("\n"); j =2; i++;
